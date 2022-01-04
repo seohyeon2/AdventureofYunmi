@@ -23,8 +23,8 @@
 * 2020.09.23 ~ 2020.12.16         
 
 ### ⚙️ Development environment
-* Unity
-* Visual Studio
+* Unity 2019.4.34f1
+* Visual Studio 2019
 * GitHub
 
 
@@ -81,4 +81,24 @@ https://user-images.githubusercontent.com/50102522/148019100-ea7be754-f968-45d9-
 <br>
 
 ## 💻 Code Review 💻
+❗️ 각 코드의 주석 참고
+
+<br>
+
+- [캐릭터 움직임 코드](Scripts/Player.cs)
+
+https://user-images.githubusercontent.com/50102522/148034298-4b9e1553-6afa-4d1b-8621-b370327ba217.mp4
+
+<br>
+
+- [카메라(플레이어 시야) 움직임 코드](Scripts/CameraController.cs)
+
+https://user-images.githubusercontent.com/50102522/148034322-04cc2b00-c94e-44c3-a128-28cfc91a24d2.mp4
+
+<br>
+
+- [무기 공격 구현 코드](Scripts/Weapon.cs)
+
+https://user-images.githubusercontent.com/50102522/148034339-5ed3a464-98ef-484a-9af4-21b73aaf2d6f.mp4
+
 
